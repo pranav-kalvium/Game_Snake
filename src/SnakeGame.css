@@ -16,6 +16,8 @@
 	justify-content: space-around;
 }
 
+/* Game board and score  */
+
 #GameBoard #Score {
 	position: relative;
 	top: 105%;
